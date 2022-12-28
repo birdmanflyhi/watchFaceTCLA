@@ -15,18 +15,29 @@
 <entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="10" lineNum="27" parent="globals/watchFaceTCLAView" pc="268435615" symbol="onUpdate"/>
 <entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="10" lineNum="28" parent="globals/watchFaceTCLAView" pc="268435689" symbol="onUpdate"/>
 <entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="10" lineNum="29" parent="globals/watchFaceTCLAView" pc="268435717" symbol="onUpdate"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="10" lineNum="32" parent="globals/watchFaceTCLAView" pc="268435731" symbol="onUpdate"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="11" lineNum="5" parent="globals/watchFaceTCLAApp" pc="268435756" symbol="&lt;init&gt;"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="12" lineNum="12" parent="globals/watchFaceTCLAApp" pc="268435775" symbol="onStart"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="13" lineNum="20" parent="globals/watchFaceTCLAApp" pc="268435778" symbol="getInitialView"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="13" lineNum="21" parent="globals/watchFaceTCLAApp" pc="268435780" symbol="getInitialView"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="14" lineNum="7" parent="globals/watchFaceTCLAApp" pc="268435821" symbol="initialize"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="14" lineNum="8" parent="globals/watchFaceTCLAApp" pc="268435823" symbol="initialize"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="15" lineNum="16" parent="globals/watchFaceTCLAApp" pc="268435842" symbol="onStop"/>
-<entry filename="Rez.mc" id="16" lineNum="17" parent="globals/Rez/Layouts" pc="268435845" symbol="WatchFace"/>
-<entry filename="Rez.mc" id="16" lineNum="19" parent="globals/Rez/Layouts" pc="268435857" symbol="WatchFace"/>
-<entry filename="Rez.mc" id="16" lineNum="20" parent="globals/Rez/Layouts" pc="268435992" symbol="WatchFace"/>
-<entry filename="Rez.mc" id="16" lineNum="22" parent="globals/Rez/Layouts" pc="268436117" symbol="WatchFace"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="10" lineNum="30" parent="globals/watchFaceTCLAView" pc="268435731" symbol="onUpdate"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="10" lineNum="33" parent="globals/watchFaceTCLAView" pc="268435743" symbol="onUpdate"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="11" lineNum="50" parent="globals/watchFaceTCLAView" pc="268435768" symbol="setBatteryDisplay"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="11" lineNum="51" parent="globals/watchFaceTCLAView" pc="268435772" symbol="setBatteryDisplay"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="11" lineNum="52" parent="globals/watchFaceTCLAView" pc="268435795" symbol="setBatteryDisplay"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="11" lineNum="53" parent="globals/watchFaceTCLAView" pc="268435823" symbol="setBatteryDisplay"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="12" lineNum="5" parent="globals/watchFaceTCLAApp" pc="268435858" symbol="&lt;init&gt;"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="13" lineNum="12" parent="globals/watchFaceTCLAApp" pc="268435877" symbol="onStart"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="14" lineNum="20" parent="globals/watchFaceTCLAApp" pc="268435880" symbol="getInitialView"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="14" lineNum="21" parent="globals/watchFaceTCLAApp" pc="268435882" symbol="getInitialView"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="15" lineNum="7" parent="globals/watchFaceTCLAApp" pc="268435923" symbol="initialize"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="15" lineNum="8" parent="globals/watchFaceTCLAApp" pc="268435925" symbol="initialize"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="16" lineNum="16" parent="globals/watchFaceTCLAApp" pc="268435944" symbol="onStop"/>
+<entry filename="Rez.mc" id="17" lineNum="18" parent="globals/Rez/Layouts" pc="268435947" symbol="WatchFace"/>
+<entry filename="Rez.mc" id="17" lineNum="20" parent="globals/Rez/Layouts" pc="268435959" symbol="WatchFace"/>
+<entry filename="Rez.mc" id="17" lineNum="21" parent="globals/Rez/Layouts" pc="268436071" symbol="WatchFace"/>
+<entry filename="Rez.mc" id="17" lineNum="22" parent="globals/Rez/Layouts" pc="268436196" symbol="WatchFace"/>
+<entry filename="Rez.mc" id="17" lineNum="23" parent="globals/Rez/Layouts" pc="268436301" symbol="WatchFace"/>
+<entry filename="Rez.mc" id="17" lineNum="24" parent="globals/Rez/Layouts" pc="268436353" symbol="WatchFace"/>
+<entry filename="Rez.mc" id="17" lineNum="25" parent="globals/Rez/Layouts" pc="268436478" symbol="WatchFace"/>
+<entry filename="Rez.mc" id="17" lineNum="26" parent="globals/Rez/Layouts" pc="268436603" symbol="WatchFace"/>
+<entry filename="Rez.mc" id="17" lineNum="27" parent="globals/Rez/Layouts" pc="268436728" symbol="WatchFace"/>
+<entry filename="Rez.mc" id="17" lineNum="29" parent="globals/Rez/Layouts" pc="268436853" symbol="WatchFace"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388639" module="true" symbol="Graphics"/>
@@ -36,9 +47,10 @@
 <entry id="10" object="true" symbol="watchFaceTCLAView"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
 <entry id="9" object="true" symbol="watchFaceTCLAApp"/>
-<entry field="true" id="14" symbol="AppName"/>
+<entry field="true" id="16" symbol="AppName"/>
 <entry id="8" module="true" symbol="globals/Rez/Strings"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8389345" symbol="rezId"/>
 <entry id="8388648" module="true" symbol="WatchUi"/>
 <entry id="2" module="true" symbol="globals/Rez"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
@@ -56,13 +68,15 @@
 <entry id="8389349" symbol="justification"/>
 <entry id="5" module="true" symbol="globals/Rez/JsonData"/>
 <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="13" method="true" symbol="setBatteryDisplay"/>
 <entry id="8389377" method="true" symbol="onExitSleep"/>
 <entry id="8388644" module="true" symbol="System"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry id="8388640" module="true" symbol="Lang"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
-<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry field="true" id="14" symbol="LauncherIcon"/>
 <entry id="8388610" symbol="statics"/>
+<entry field="true" id="15" symbol="TCLA_Icon"/>
 <entry id="8389123" method="true" symbol="onShow"/>
 <entry id="8389350" module="true" symbol="globals"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
@@ -78,29 +92,37 @@
 </symbolTable>
 <localVars>
 <entry arg="true" endPc="268435572" name="dc" stackId="1" startPc="268435529"/>
-<entry arg="true" endPc="268435755" name="dc" stackId="1" startPc="268435594"/>
-<entry endPc="268435754" name="clockTime" stackId="2" startPc="268435598"/>
-<entry endPc="268435754" name="timeString" stackId="3" startPc="268435598"/>
-<entry endPc="268435754" name="view" stackId="4" startPc="268435598"/>
-<entry arg="true" endPc="268436143" name="dc" stackId="1" startPc="268435845"/>
-<entry endPc="268436143" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268435857"/>
-<entry endPc="268436143" name="rez_cmp_local_text_BatteryDisplay" stackId="3" startPc="268435857"/>
+<entry arg="true" endPc="268435767" name="dc" stackId="1" startPc="268435594"/>
+<entry endPc="268435766" name="clockTime" stackId="2" startPc="268435598"/>
+<entry endPc="268435766" name="timeString" stackId="3" startPc="268435598"/>
+<entry endPc="268435766" name="view" stackId="4" startPc="268435598"/>
+<entry endPc="268435856" name="battery" stackId="1" startPc="268435772"/>
+<entry endPc="268435856" name="batteryDisplay" stackId="2" startPc="268435772"/>
+<entry arg="true" endPc="268436929" name="dc" stackId="1" startPc="268435947"/>
+<entry endPc="268436929" name="rez_cmp_local_text_TimeDisplay" stackId="2" startPc="268435959"/>
+<entry endPc="268436929" name="rez_cmp_local_text_weBanner" stackId="3" startPc="268435959"/>
+<entry endPc="268436929" name="rez_cmp_local_bitmap_TCLA_Icon" stackId="4" startPc="268435959"/>
+<entry endPc="268436929" name="rez_cmp_local_text_areBanner" stackId="5" startPc="268435959"/>
+<entry endPc="268436929" name="rez_cmp_local_text_logoName" stackId="6" startPc="268435959"/>
+<entry endPc="268436929" name="rez_cmp_local_text_totalWeekDistance" stackId="7" startPc="268435959"/>
+<entry endPc="268436929" name="rez_cmp_local_text_BatteryDisplay" stackId="8" startPc="268435959"/>
 </localVars>
 <annotations>
 <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="TCLA_Icon"/>
 <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
 </annotations>
 <dataEntryOffsetMappings>
 <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
 <dataEntry label="globals/Rez" offset="158" parentId="globals" symbolId="Rez" type="module"/>
 <dataEntry label="globals/watchFaceTCLAView" offset="237" parentId="globals" symbolId="watchFaceTCLAView" type="class"/>
-<dataEntry label="globals/watchFaceTCLAApp" offset="332" parentId="globals" symbolId="watchFaceTCLAApp" type="class"/>
-<dataEntry label="globals/Rez/Drawables" offset="403" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry label="globals/Rez/Layouts" offset="442" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry label="globals/Rez/Menus" offset="481" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry label="globals/Rez/Fonts" offset="512" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry label="globals/Rez/Strings" offset="543" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry label="globals/Rez/JsonData" offset="582" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/watchFaceTCLAApp" offset="340" parentId="globals" symbolId="watchFaceTCLAApp" type="class"/>
+<dataEntry label="globals/Rez/Drawables" offset="411" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="458" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="497" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="528" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="559" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="598" parentId="Rez" symbolId="JsonData" type="module"/>
 </dataEntryOffsetMappings>
 <functions>
 <functionEntry accessMode="public" endPc="268435485" name="getApp" startPc="268435460">
@@ -131,24 +153,27 @@
 <functionEntry accessMode="public" name="onHide" parent="watchFaceTCLAView">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435755" name="onUpdate" parent="watchFaceTCLAView" startPc="268435594">
+<functionEntry accessMode="public" endPc="268435767" name="onUpdate" parent="watchFaceTCLAView" startPc="268435594">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435774" name="&lt;init&gt;" parent="watchFaceTCLAApp" startPc="268435756">
+<functionEntry accessMode="protected" endPc="268435857" name="setBatteryDisplay" parent="watchFaceTCLAView" startPc="268435768">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435777" name="onStart" parent="watchFaceTCLAApp" startPc="268435775">
+<functionEntry accessMode="public" endPc="268435876" name="&lt;init&gt;" parent="watchFaceTCLAApp" startPc="268435858">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435879" name="onStart" parent="watchFaceTCLAApp" startPc="268435877">
 <param id="state"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435820" name="getInitialView" parent="watchFaceTCLAApp" startPc="268435778">
+<functionEntry accessMode="public" endPc="268435922" name="getInitialView" parent="watchFaceTCLAApp" startPc="268435880">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435841" name="initialize" parent="watchFaceTCLAApp" startPc="268435821">
+<functionEntry accessMode="public" endPc="268435943" name="initialize" parent="watchFaceTCLAApp" startPc="268435923">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435844" name="onStop" parent="watchFaceTCLAApp" startPc="268435842">
+<functionEntry accessMode="public" endPc="268435946" name="onStop" parent="watchFaceTCLAApp" startPc="268435944">
 <param id="state"/>
 <documentation/>
 </functionEntry>
@@ -170,7 +195,7 @@
 <functionEntry accessMode="public" name="&lt;init&gt;" parent="JsonData">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436143" name="WatchFace" parent="Layouts" startPc="268435845">
+<functionEntry accessMode="public" endPc="268436929" name="WatchFace" parent="Layouts" startPc="268435947">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
