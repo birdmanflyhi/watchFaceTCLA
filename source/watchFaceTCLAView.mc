@@ -25,8 +25,9 @@ class watchFaceTCLAView extends WatchUi.WatchFace {
         // Get and show the current time
         var clockTime = System.getClockTime();
         var timeString = Lang.format("$1$:$2$", [clockTime.hour, clockTime.min.format("%02d")]);
-        var view = View.findDrawableById("TimeLabel") as Text;
+        var view = View.findDrawableById("TimeDisplay") as Text;
         view.setText(timeString);
+        setBatteryDisplay();
 
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);
@@ -44,6 +45,12 @@ class watchFaceTCLAView extends WatchUi.WatchFace {
 
     // Terminate any active timers and prepare for slow updates.
     function onEnterSleep() as Void {
+    }
+
+    hidden function setBatteryDisplay() {
+        var battery = System.getSystemStats().battery;
+        var batteryDisplay = View.findDrawableById("BatteryDisplay") as Text;
+        batteryDisplay.setText(battery.format("%d")+"%");
     }
 
 }

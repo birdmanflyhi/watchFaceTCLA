@@ -1,6 +1,20 @@
 <layout id="WatchFace">
-    <label id="TimeLabel" x="center" y="center" font="Graphics.FONT_LARGE" 
+    <label id="TimeDisplay" x="center" y="15%" font="Graphics.FONT_LARGE" 
     justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
-    <label id="BatteryDisplay" text="battery" x="center" y="bottom" font="Gfx.FONT_XTINY"
+    <label id="weBanner" text="We" x="25%" y="35%" font="Gfx.FONT_XTINY"
+    justification="Gfx.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+   
+    <bitmap id="TCLA_Icon" filename="../drawables/tcla_logo.png" 
+     x="center" y="center" />
+
+    <label id="areBanner" text="Are" x="75%" y="35%" font="Gfx.FONT_XTINY"
+    justification="Gfx.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+    <label id="logoName" text="TCLA" x="center" y="65%" font="Graphics.FONT_LARGE"
+    justification="Gfx.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+    
+    <label id="totalWeekDistance" text="00" x="30%" y="80%" font="Gfx.FONT_XTINY"
+    justification="Gfx.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" />
+    <label id="BatteryDisplay" text="00" x="70%" y="80%" font="Gfx.FONT_XTINY"
     justification="Gfx.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_GREEN" />
+    
 </layout>
