@@ -5,49 +5,67 @@
 <entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="1" lineNum="26" parent="globals" pc="268435460" symbol="getApp"/>
 <entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="1" lineNum="27" parent="globals" pc="268435470" symbol="getApp"/>
 <entry filename="Rez.mc" id="2" lineNum="1" parent="globals/Rez" pc="268435486" symbol="&lt;init&gt;"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="3" lineNum="6" parent="globals/watchFaceTCLAView" pc="268435510" symbol="&lt;init&gt;"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="6" lineNum="13" parent="globals/watchFaceTCLAView" pc="268435529" symbol="onLayout"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="6" lineNum="14" parent="globals/watchFaceTCLAView" pc="268435531" symbol="onLayout"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="8" lineNum="8" parent="globals/watchFaceTCLAView" pc="268435573" symbol="initialize"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="8" lineNum="9" parent="globals/watchFaceTCLAView" pc="268435575" symbol="initialize"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="10" lineNum="24" parent="globals/watchFaceTCLAView" pc="268435594" symbol="onUpdate"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="10" lineNum="26" parent="globals/watchFaceTCLAView" pc="268435598" symbol="onUpdate"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="10" lineNum="27" parent="globals/watchFaceTCLAView" pc="268435615" symbol="onUpdate"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="10" lineNum="28" parent="globals/watchFaceTCLAView" pc="268435689" symbol="onUpdate"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="10" lineNum="29" parent="globals/watchFaceTCLAView" pc="268435717" symbol="onUpdate"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="10" lineNum="30" parent="globals/watchFaceTCLAView" pc="268435731" symbol="onUpdate"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="10" lineNum="33" parent="globals/watchFaceTCLAView" pc="268435743" symbol="onUpdate"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="11" lineNum="50" parent="globals/watchFaceTCLAView" pc="268435768" symbol="setBatteryDisplay"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="11" lineNum="51" parent="globals/watchFaceTCLAView" pc="268435772" symbol="setBatteryDisplay"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="11" lineNum="52" parent="globals/watchFaceTCLAView" pc="268435795" symbol="setBatteryDisplay"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="11" lineNum="53" parent="globals/watchFaceTCLAView" pc="268435823" symbol="setBatteryDisplay"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="12" lineNum="5" parent="globals/watchFaceTCLAApp" pc="268435858" symbol="&lt;init&gt;"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="13" lineNum="12" parent="globals/watchFaceTCLAApp" pc="268435877" symbol="onStart"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="14" lineNum="20" parent="globals/watchFaceTCLAApp" pc="268435880" symbol="getInitialView"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="14" lineNum="21" parent="globals/watchFaceTCLAApp" pc="268435882" symbol="getInitialView"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="15" lineNum="7" parent="globals/watchFaceTCLAApp" pc="268435923" symbol="initialize"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="15" lineNum="8" parent="globals/watchFaceTCLAApp" pc="268435925" symbol="initialize"/>
-<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="16" lineNum="16" parent="globals/watchFaceTCLAApp" pc="268435944" symbol="onStop"/>
-<entry filename="Rez.mc" id="17" lineNum="18" parent="globals/Rez/Layouts" pc="268435947" symbol="WatchFace"/>
-<entry filename="Rez.mc" id="17" lineNum="20" parent="globals/Rez/Layouts" pc="268435959" symbol="WatchFace"/>
-<entry filename="Rez.mc" id="17" lineNum="21" parent="globals/Rez/Layouts" pc="268436071" symbol="WatchFace"/>
-<entry filename="Rez.mc" id="17" lineNum="22" parent="globals/Rez/Layouts" pc="268436196" symbol="WatchFace"/>
-<entry filename="Rez.mc" id="17" lineNum="23" parent="globals/Rez/Layouts" pc="268436301" symbol="WatchFace"/>
-<entry filename="Rez.mc" id="17" lineNum="24" parent="globals/Rez/Layouts" pc="268436353" symbol="WatchFace"/>
-<entry filename="Rez.mc" id="17" lineNum="25" parent="globals/Rez/Layouts" pc="268436478" symbol="WatchFace"/>
-<entry filename="Rez.mc" id="17" lineNum="26" parent="globals/Rez/Layouts" pc="268436603" symbol="WatchFace"/>
-<entry filename="Rez.mc" id="17" lineNum="27" parent="globals/Rez/Layouts" pc="268436728" symbol="WatchFace"/>
-<entry filename="Rez.mc" id="17" lineNum="29" parent="globals/Rez/Layouts" pc="268436853" symbol="WatchFace"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="3" lineNum="11" parent="globals/watchFaceTCLAView" pc="268435510" symbol="&lt;init&gt;"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="6" lineNum="62" parent="globals/watchFaceTCLAView" pc="268435529" symbol="setTotalWeekDistance"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="6" lineNum="63" parent="globals/watchFaceTCLAView" pc="268435533" symbol="setTotalWeekDistance"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="6" lineNum="64" parent="globals/watchFaceTCLAView" pc="268435550" symbol="setTotalWeekDistance"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="6" lineNum="66" parent="globals/watchFaceTCLAView" pc="268435563" symbol="setTotalWeekDistance"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="6" lineNum="67" parent="globals/watchFaceTCLAView" pc="268435615" symbol="setTotalWeekDistance"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="6" lineNum="72" parent="globals/watchFaceTCLAView" pc="268435625" symbol="setTotalWeekDistance"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="6" lineNum="73" parent="globals/watchFaceTCLAView" pc="268435640" symbol="setTotalWeekDistance"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="6" lineNum="74" parent="globals/watchFaceTCLAView" pc="268435659" symbol="setTotalWeekDistance"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="6" lineNum="77" parent="globals/watchFaceTCLAView" pc="268435666" symbol="setTotalWeekDistance"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="6" lineNum="78" parent="globals/watchFaceTCLAView" pc="268435687" symbol="setTotalWeekDistance"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="6" lineNum="79" parent="globals/watchFaceTCLAView" pc="268435717" symbol="setTotalWeekDistance"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="6" lineNum="81" parent="globals/watchFaceTCLAView" pc="268435730" symbol="setTotalWeekDistance"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="6" lineNum="84" parent="globals/watchFaceTCLAView" pc="268435746" symbol="setTotalWeekDistance"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="6" lineNum="85" parent="globals/watchFaceTCLAView" pc="268435774" symbol="setTotalWeekDistance"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="7" lineNum="18" parent="globals/watchFaceTCLAView" pc="268435798" symbol="onLayout"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="7" lineNum="19" parent="globals/watchFaceTCLAView" pc="268435800" symbol="onLayout"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="9" lineNum="13" parent="globals/watchFaceTCLAView" pc="268435842" symbol="initialize"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="9" lineNum="14" parent="globals/watchFaceTCLAView" pc="268435844" symbol="initialize"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="11" lineNum="29" parent="globals/watchFaceTCLAView" pc="268435863" symbol="onUpdate"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="11" lineNum="31" parent="globals/watchFaceTCLAView" pc="268435867" symbol="onUpdate"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="11" lineNum="32" parent="globals/watchFaceTCLAView" pc="268435884" symbol="onUpdate"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="11" lineNum="33" parent="globals/watchFaceTCLAView" pc="268435958" symbol="onUpdate"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="11" lineNum="34" parent="globals/watchFaceTCLAView" pc="268435986" symbol="onUpdate"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="11" lineNum="35" parent="globals/watchFaceTCLAView" pc="268436000" symbol="onUpdate"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="11" lineNum="36" parent="globals/watchFaceTCLAView" pc="268436012" symbol="onUpdate"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="11" lineNum="39" parent="globals/watchFaceTCLAView" pc="268436024" symbol="onUpdate"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="12" lineNum="56" parent="globals/watchFaceTCLAView" pc="268436049" symbol="setBatteryDisplay"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="12" lineNum="57" parent="globals/watchFaceTCLAView" pc="268436053" symbol="setBatteryDisplay"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="12" lineNum="58" parent="globals/watchFaceTCLAView" pc="268436076" symbol="setBatteryDisplay"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAView.mc" id="12" lineNum="59" parent="globals/watchFaceTCLAView" pc="268436104" symbol="setBatteryDisplay"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="13" lineNum="5" parent="globals/watchFaceTCLAApp" pc="268436139" symbol="&lt;init&gt;"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="14" lineNum="12" parent="globals/watchFaceTCLAApp" pc="268436158" symbol="onStart"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="15" lineNum="20" parent="globals/watchFaceTCLAApp" pc="268436161" symbol="getInitialView"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="15" lineNum="21" parent="globals/watchFaceTCLAApp" pc="268436163" symbol="getInitialView"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="16" lineNum="7" parent="globals/watchFaceTCLAApp" pc="268436204" symbol="initialize"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="16" lineNum="8" parent="globals/watchFaceTCLAApp" pc="268436206" symbol="initialize"/>
+<entry filename="/Users/birdman/Documents/garminWork/watchFaceTCLA/source/watchFaceTCLAApp.mc" id="17" lineNum="16" parent="globals/watchFaceTCLAApp" pc="268436225" symbol="onStop"/>
+<entry filename="Rez.mc" id="18" lineNum="18" parent="globals/Rez/Layouts" pc="268436228" symbol="WatchFace"/>
+<entry filename="Rez.mc" id="18" lineNum="20" parent="globals/Rez/Layouts" pc="268436240" symbol="WatchFace"/>
+<entry filename="Rez.mc" id="18" lineNum="21" parent="globals/Rez/Layouts" pc="268436352" symbol="WatchFace"/>
+<entry filename="Rez.mc" id="18" lineNum="22" parent="globals/Rez/Layouts" pc="268436477" symbol="WatchFace"/>
+<entry filename="Rez.mc" id="18" lineNum="23" parent="globals/Rez/Layouts" pc="268436582" symbol="WatchFace"/>
+<entry filename="Rez.mc" id="18" lineNum="24" parent="globals/Rez/Layouts" pc="268436634" symbol="WatchFace"/>
+<entry filename="Rez.mc" id="18" lineNum="25" parent="globals/Rez/Layouts" pc="268436759" symbol="WatchFace"/>
+<entry filename="Rez.mc" id="18" lineNum="26" parent="globals/Rez/Layouts" pc="268436884" symbol="WatchFace"/>
+<entry filename="Rez.mc" id="18" lineNum="27" parent="globals/Rez/Layouts" pc="268437009" symbol="WatchFace"/>
+<entry filename="Rez.mc" id="18" lineNum="29" parent="globals/Rez/Layouts" pc="268437134" symbol="WatchFace"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388639" module="true" symbol="Graphics"/>
 <entry id="8389346" symbol="text"/>
 <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
 <entry id="7" module="true" symbol="globals/Rez/Menus"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
 <entry id="10" object="true" symbol="watchFaceTCLAView"/>
+<entry id="8388647" module="true" symbol="UserProfile"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
 <entry id="9" object="true" symbol="watchFaceTCLAApp"/>
-<entry field="true" id="16" symbol="AppName"/>
+<entry field="true" id="17" symbol="AppName"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
 <entry id="8" module="true" symbol="globals/Rez/Strings"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
 <entry id="8389345" symbol="rezId"/>
@@ -67,16 +85,18 @@
 <entry field="true" id="8389063" symbol="identifier"/>
 <entry id="8389349" symbol="justification"/>
 <entry id="5" module="true" symbol="globals/Rez/JsonData"/>
+<entry id="14" method="true" symbol="setTotalWeekDistance"/>
 <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
 <entry id="13" method="true" symbol="setBatteryDisplay"/>
 <entry id="8389377" method="true" symbol="onExitSleep"/>
 <entry id="8388644" module="true" symbol="System"/>
+<entry id="8388645" module="true" symbol="Time"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry id="8388640" module="true" symbol="Lang"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
-<entry field="true" id="14" symbol="LauncherIcon"/>
+<entry field="true" id="15" symbol="LauncherIcon"/>
 <entry id="8388610" symbol="statics"/>
-<entry field="true" id="15" symbol="TCLA_Icon"/>
+<entry field="true" id="16" symbol="TCLA_Icon"/>
 <entry id="8389123" method="true" symbol="onShow"/>
 <entry id="8389350" module="true" symbol="globals"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
@@ -91,21 +111,29 @@
 <entry id="8388635" module="true" symbol="Application"/>
 </symbolTable>
 <localVars>
-<entry arg="true" endPc="268435572" name="dc" stackId="1" startPc="268435529"/>
-<entry arg="true" endPc="268435767" name="dc" stackId="1" startPc="268435594"/>
-<entry endPc="268435766" name="clockTime" stackId="2" startPc="268435598"/>
-<entry endPc="268435766" name="timeString" stackId="3" startPc="268435598"/>
-<entry endPc="268435766" name="view" stackId="4" startPc="268435598"/>
-<entry endPc="268435856" name="battery" stackId="1" startPc="268435772"/>
-<entry endPc="268435856" name="batteryDisplay" stackId="2" startPc="268435772"/>
-<entry arg="true" endPc="268436929" name="dc" stackId="1" startPc="268435947"/>
-<entry endPc="268436929" name="rez_cmp_local_text_TimeDisplay" stackId="2" startPc="268435959"/>
-<entry endPc="268436929" name="rez_cmp_local_text_weBanner" stackId="3" startPc="268435959"/>
-<entry endPc="268436929" name="rez_cmp_local_bitmap_TCLA_Icon" stackId="4" startPc="268435959"/>
-<entry endPc="268436929" name="rez_cmp_local_text_areBanner" stackId="5" startPc="268435959"/>
-<entry endPc="268436929" name="rez_cmp_local_text_logoName" stackId="6" startPc="268435959"/>
-<entry endPc="268436929" name="rez_cmp_local_text_totalWeekDistance" stackId="7" startPc="268435959"/>
-<entry endPc="268436929" name="rez_cmp_local_text_BatteryDisplay" stackId="8" startPc="268435959"/>
+<entry endPc="268435796" name="userActivityIterator" stackId="1" startPc="268435533"/>
+<entry endPc="268435796" name="sample" stackId="2" startPc="268435533"/>
+<entry endPc="268435796" name="today" stackId="3" startPc="268435533"/>
+<entry endPc="268435796" name="sFormat" stackId="4" startPc="268435533"/>
+<entry endPc="268435796" name="secondsDifference" stackId="5" startPc="268435533"/>
+<entry endPc="268435796" name="daysDifference" stackId="6" startPc="268435533"/>
+<entry endPc="268435796" name="totalWeekDistance" stackId="7" startPc="268435533"/>
+<entry endPc="268435796" name="weekDistanceDisplay" stackId="8" startPc="268435746"/>
+<entry arg="true" endPc="268435841" name="dc" stackId="1" startPc="268435798"/>
+<entry arg="true" endPc="268436048" name="dc" stackId="1" startPc="268435863"/>
+<entry endPc="268436047" name="clockTime" stackId="2" startPc="268435867"/>
+<entry endPc="268436047" name="timeString" stackId="3" startPc="268435867"/>
+<entry endPc="268436047" name="view" stackId="4" startPc="268435867"/>
+<entry endPc="268436137" name="battery" stackId="1" startPc="268436053"/>
+<entry endPc="268436137" name="batteryDisplay" stackId="2" startPc="268436053"/>
+<entry arg="true" endPc="268437210" name="dc" stackId="1" startPc="268436228"/>
+<entry endPc="268437210" name="rez_cmp_local_text_TimeDisplay" stackId="2" startPc="268436240"/>
+<entry endPc="268437210" name="rez_cmp_local_text_weBanner" stackId="3" startPc="268436240"/>
+<entry endPc="268437210" name="rez_cmp_local_bitmap_TCLA_Icon" stackId="4" startPc="268436240"/>
+<entry endPc="268437210" name="rez_cmp_local_text_areBanner" stackId="5" startPc="268436240"/>
+<entry endPc="268437210" name="rez_cmp_local_text_logoName" stackId="6" startPc="268436240"/>
+<entry endPc="268437210" name="rez_cmp_local_text_totalWeekDistance" stackId="7" startPc="268436240"/>
+<entry endPc="268437210" name="rez_cmp_local_text_BatteryDisplay" stackId="8" startPc="268436240"/>
 </localVars>
 <annotations>
 <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
@@ -116,13 +144,13 @@
 <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
 <dataEntry label="globals/Rez" offset="158" parentId="globals" symbolId="Rez" type="module"/>
 <dataEntry label="globals/watchFaceTCLAView" offset="237" parentId="globals" symbolId="watchFaceTCLAView" type="class"/>
-<dataEntry label="globals/watchFaceTCLAApp" offset="340" parentId="globals" symbolId="watchFaceTCLAApp" type="class"/>
-<dataEntry label="globals/Rez/Drawables" offset="411" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry label="globals/Rez/Layouts" offset="458" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry label="globals/Rez/Menus" offset="497" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry label="globals/Rez/Fonts" offset="528" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry label="globals/Rez/Strings" offset="559" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry label="globals/Rez/JsonData" offset="598" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/watchFaceTCLAApp" offset="348" parentId="globals" symbolId="watchFaceTCLAApp" type="class"/>
+<dataEntry label="globals/Rez/Drawables" offset="419" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="466" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="505" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="536" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="567" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="606" parentId="Rez" symbolId="JsonData" type="module"/>
 </dataEntryOffsetMappings>
 <functions>
 <functionEntry accessMode="public" endPc="268435485" name="getApp" startPc="268435460">
@@ -140,40 +168,43 @@
 <functionEntry accessMode="public" name="onShow" parent="watchFaceTCLAView">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435572" name="onLayout" parent="watchFaceTCLAView" startPc="268435529">
+<functionEntry accessMode="protected" endPc="268435797" name="setTotalWeekDistance" parent="watchFaceTCLAView" startPc="268435529">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435841" name="onLayout" parent="watchFaceTCLAView" startPc="268435798">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="onEnterSleep" parent="watchFaceTCLAView">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435593" name="initialize" parent="watchFaceTCLAView" startPc="268435573">
+<functionEntry accessMode="public" endPc="268435862" name="initialize" parent="watchFaceTCLAView" startPc="268435842">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="onHide" parent="watchFaceTCLAView">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435767" name="onUpdate" parent="watchFaceTCLAView" startPc="268435594">
+<functionEntry accessMode="public" endPc="268436048" name="onUpdate" parent="watchFaceTCLAView" startPc="268435863">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268435857" name="setBatteryDisplay" parent="watchFaceTCLAView" startPc="268435768">
+<functionEntry accessMode="protected" endPc="268436138" name="setBatteryDisplay" parent="watchFaceTCLAView" startPc="268436049">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435876" name="&lt;init&gt;" parent="watchFaceTCLAApp" startPc="268435858">
+<functionEntry accessMode="public" endPc="268436157" name="&lt;init&gt;" parent="watchFaceTCLAApp" startPc="268436139">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435879" name="onStart" parent="watchFaceTCLAApp" startPc="268435877">
+<functionEntry accessMode="public" endPc="268436160" name="onStart" parent="watchFaceTCLAApp" startPc="268436158">
 <param id="state"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435922" name="getInitialView" parent="watchFaceTCLAApp" startPc="268435880">
+<functionEntry accessMode="public" endPc="268436203" name="getInitialView" parent="watchFaceTCLAApp" startPc="268436161">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435943" name="initialize" parent="watchFaceTCLAApp" startPc="268435923">
+<functionEntry accessMode="public" endPc="268436224" name="initialize" parent="watchFaceTCLAApp" startPc="268436204">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435946" name="onStop" parent="watchFaceTCLAApp" startPc="268435944">
+<functionEntry accessMode="public" endPc="268436227" name="onStop" parent="watchFaceTCLAApp" startPc="268436225">
 <param id="state"/>
 <documentation/>
 </functionEntry>
@@ -195,7 +226,7 @@
 <functionEntry accessMode="public" name="&lt;init&gt;" parent="JsonData">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436929" name="WatchFace" parent="Layouts" startPc="268435947">
+<functionEntry accessMode="public" endPc="268437210" name="WatchFace" parent="Layouts" startPc="268436228">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
